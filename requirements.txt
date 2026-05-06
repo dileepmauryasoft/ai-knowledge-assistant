@@ -1,0 +1,12 @@
+langchain==0.2.14
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+tiktoken
+python-dotenv
+pypdf
+streamlit
+fastapi
+uvicorn
